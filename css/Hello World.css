@@ -1,0 +1,35 @@
+table,th,tb{
+    
+   border:1px solid black;
+    
+}
+
+
+p{
+    font-size: 18px;
+    font-weight:900 ;
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+    margin:30px ;
+    border:3px solid yellow;
+}
+body{
+    background-image: url('http://dmimg.5054399.com/allimg/lbxx/bz/50.jpg')
+}
+#profile{
+    display:none ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
